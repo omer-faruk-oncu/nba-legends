@@ -1,4 +1,4 @@
-
+![nba](https://github.com/omer-faruk-oncu/nba-legends/assets/154313389/f88a65dc-ac8a-4478-a3f2-02ba23f4a9d9)
 
 https://nba-legends-oncuu.netlify.app
 
